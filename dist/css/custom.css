@@ -1,0 +1,40 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: #1f7a1f !important;
+}
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-image: url('');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.color-font{
+  color:#fff;
+  margin-top:15%;
+}
+
+.badge-me {
+  border: 1px solid transparent;
+  background: linear-gradient(to right, #4ce67a 10%, #ee4419 100%);
+  padding: 7px 30px 7px 30px;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+a:hover{
+  text-decoration: none;
+  color:#fff;
+}
+
